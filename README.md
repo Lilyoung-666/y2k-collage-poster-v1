@@ -77,7 +77,6 @@ You may specify:
 - Primary and must-use photos
 - Preferred style family
 - Color palette
-- Mood or emotional tension
 - Exact poster text
 - Important facial, clothing, pose, or object details
 

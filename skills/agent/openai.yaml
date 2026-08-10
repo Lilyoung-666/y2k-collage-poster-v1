@@ -1,4 +1,0 @@
-interface:
-  display_name: "Y2K Collage Poster v1"
-  short_description: "Build focused four-family Y2K collages from supplied images"
-  default_prompt: "Use $y2k-collage-poster-v1 to turn my supplied images into a source-faithful Y2K collage poster."
